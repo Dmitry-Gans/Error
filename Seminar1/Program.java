@@ -1,5 +1,4 @@
 package ru.geekbrains.lesson1;
-//52 минута
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
